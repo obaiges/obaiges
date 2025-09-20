@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="./banner.png" alt="Banner friki" width="100%" />
+  <img src="./banner.png" alt="Banner friki" width="50%" />
 </p>
 
 # 👾 ¡Bienvenido a mi rincón friki!
