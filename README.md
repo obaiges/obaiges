@@ -25,23 +25,10 @@
 
 ---
 
-## 🏴‍☠️ Badges frikis
-![Anime](https://img.shields.io/badge/Anime-Naruto%20🍥-orange)
-![Consola](https://img.shields.io/badge/Nintendo-Switch-red?logo=nintendo-switch)
-![Modo Oscuro](https://img.shields.io/badge/Angular-Dark%20Mode%20Dev-black?logo=angular&logoColor=red)
-
----
-
 ## 🧩 Curiosidades
 - 🌌 Me encanta añadir “easter eggs” en el código.  
 - 🥷 Buscando siempre la **mejor accesibilidad**.  
 - 🔮 Plan secreto: programar y diseñar webs sin parecer el típico programador.
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Gif anime chulo">
-</p>
 
 ---
 
