@@ -1,7 +1,7 @@
 <!-- Banner superior -->
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.png" alt="Banner friki" width="50%" />
-</p>
+</p> -->
 
 # 👾 ¡Bienvenido a mi rincón friki!
 
