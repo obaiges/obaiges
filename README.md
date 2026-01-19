@@ -24,12 +24,3 @@
 </p>
 
 ---
-
-## 🧩 Curiosidades
-- 🌌 Me encanta añadir “easter eggs” en el código.  
-- 🥷 Buscando siempre la **mejor accesibilidad**.  
-- 🔮 Plan secreto: programar y diseñar webs sin parecer el típico programador.
-
----
-
-> _Si llegaste hasta aquí, deja una ⭐ en algún repo, ¡así sé que has encontrado este easter egg!_
