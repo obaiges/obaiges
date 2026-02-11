@@ -36,13 +36,6 @@
 
 ---
 
-### 📂 Proyectos destacados
-
-- 🔹 [Nombre del proyecto 1](#) – Breve descripción de qué hace y por qué es interesante.
-- 🔹 [Nombre del proyecto 2](#) – Otro proyecto que quieras destacar.
-- 🔹 [Nombre del proyecto 3](#) – Añade aquí alguno de tus favoritos.
-
----
 
 ### 🌐 Dónde encontrarme
 
