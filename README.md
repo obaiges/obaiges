@@ -18,9 +18,9 @@
 ### 🛠️ Tecnologías
 
 - **Lenguajes:** JavaScript, TypeScript, HTML, CSS
-- **Frontend:** React, Vue (ajusta a tu stack real)
-- **Backend:** Node.js, Express
-- **Herramientas:** Git, GitHub, VS Code
+- **Frontend:** Angular, React, TailwindCSS 
+- **Backend:** Node.js, Express, Java, Python
+- **Herramientas:** Git, GitHub, Docker, Nginx
 
 ---
 
