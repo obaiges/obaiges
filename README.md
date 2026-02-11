@@ -41,4 +41,4 @@
 
 - 💼 LinkedIn: [Tu perfil](#)
 - 🧠 Portfolio / Web personal: [Tu web](#)
-- 📫 Email: tu-email@example.com
+- 📫 Email: oscarbaigesr@gmail.com
