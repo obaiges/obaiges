@@ -39,6 +39,6 @@
 
 ### 🌐 Dónde encontrarme
 
-- 💼 LinkedIn: [Tu perfil](#)
-- 🧠 Portfolio / Web personal: [Tu web](#)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/oscar-baiges-ruiz-1932272a6/)](#)
+- 🧠 Portfolio / Web personal: In progress...
 - 📫 Email: oscarbaigesr@gmail.com
