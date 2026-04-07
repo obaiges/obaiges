@@ -9,7 +9,7 @@
 ### 🚀 Sobre mí
 
 - 💼 Actualmente trabajando en proyectos personales y colaborativos de desarrollo web.
-- 💡 Me interesa especialmente todo lo relacionado con JavaScript, frontend y buenas prácticas.
+- 💡 Me interesa especialmente todo lo relacionado con el desarrollo web, full-stack, buenas prácticas y pixel perfect.
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejorando código existente.
 - 🤝 Abierto a colaborar en proyectos interesantes y open source.
 
@@ -20,6 +20,7 @@
 - **Lenguajes:** JavaScript, TypeScript, HTML, CSS
 - **Frontend:** Angular, React, TailwindCSS 
 - **Backend:** Node.js, Express, Java, Python
+- **BBDD:** MySQL, PostgreSQL, Oracle
 - **Herramientas:** Git, GitHub, Docker, Nginx
 
 ---
