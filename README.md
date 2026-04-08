@@ -25,19 +25,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obaiges&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaiges&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
----
-
-
 ### 🌐 Dónde encontrarme
 
 - 💼 LinkedIn: https://www.linkedin.com/in/oscar-baiges-ruiz-1932272a6
