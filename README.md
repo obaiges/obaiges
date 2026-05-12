@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologías
 
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
+- **Lenguajes:** JavaScript, TypeScript, Java, Python, HTML, CSS
 - **Frontend:** Angular, React, TailwindCSS 
 - **Backend:** Node.js, Spring Boot, Express, Python, Java
 - **BBDD:** MySQL, PostgreSQL, Oracle
