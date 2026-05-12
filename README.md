@@ -19,7 +19,7 @@
 
 - **Lenguajes:** JavaScript, TypeScript, HTML, CSS
 - **Frontend:** Angular, React, TailwindCSS 
-- **Backend:** Node.js, Express, Java, Python
+- **Backend:** Node.js, Spring Boot, Express, Python, Java
 - **BBDD:** MySQL, PostgreSQL, Oracle
 - **Herramientas:** Git, GitHub, Docker, Nginx
 
