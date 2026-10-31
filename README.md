@@ -109,7 +109,7 @@ const oscar = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=obaiges&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Gráfico de actividad" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaiges&theme=tokyonight" alt="Actividad y resumen de obaiges" width="100%"/>
 
 </div>
 
@@ -131,8 +131,8 @@ Trabajo con **dos cuentas de GitHub**. La principal es **@obaiges**, donde publi
     <td align="center">Trabajo profesional · NitroPC</td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=obaiges&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" alt="Stats obaiges"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NPCOscar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" alt="Stats NPCOscar"/></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaiges&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" alt="Stats obaiges"/></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NPCOscar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" alt="Stats NPCOscar"/></td>
   </tr>
   <tr>
     <td><img src="https://streak-stats.demolab.com?user=obaiges&theme=tokyonight&hide_border=true&locale=es" alt="Racha obaiges"/></td>
